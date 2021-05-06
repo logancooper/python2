@@ -100,7 +100,7 @@ def printDivider():
         
 
 #USER INPUT
-print("Please enter a series of numbers to add to the list. When you are finished, press enter to continue.")
+print("Enter a series of numbers to add to the list. When you are finished, press enter to continue.")
 captureNumbers()
 functionChoice()
 
